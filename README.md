@@ -1,4 +1,4 @@
-# Marcelo Samuel
+# Marcelo Costa
 ## Apresentação
 Marcelo, 23 anos, formado em Análise e Desenvolvimento de Sistemas, iniciante na área e aspirante a desenvolvedor back-end.
 
